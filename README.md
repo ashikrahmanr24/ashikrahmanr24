@@ -19,7 +19,7 @@
 > 🚀 Exploring career paths across **IoT Solutions Architecture**, **Full Stack Development**, and **Data Science**
 > 🌱 Currently sharpening my skills in Python, web development, and connected-device systems
 > 💬 Ask me about **XPath**, **Python automation projects**, or **Mad Libs-style scripting fun**
-> 📫 Reach me at **[YOUR EMAIL]**
+> 📫 Reach me at **ashikrahmanr24@gmail.com**
 
 <br/>
 
@@ -39,7 +39,6 @@
 
 | 🌐 MOBILE APP DEVELOPER  | 💻 Full Stack Developer | 📊 UI & UX APPLICATION |
 |:---:|:---:|:---:|
-| Connected devices, embedded systems, edge-to-cloud pipelines | End-to-end web apps, APIs, databases | Data pipelines, ML fundamentals, analytics |
 
 </div>
 
@@ -96,8 +95,8 @@
 | Project | Description | Tech |
 |---|---|---|
 | 🎲 **Mad Libs Game** | An interactive Python-based word game generating fun, randomized stories from user input | Python |
-| 🔧 [YOUR PROJECT 2] | [Short description] | [Tech used] |
-| 🔧 [YOUR PROJECT 3] | [Short description] | [Tech used] |
+| 🔧 **Rock Paper Scissor Game** |  | Java |
+| 🔧**Travel&Tourism Management System | | DBMS,Python |
 
 > 📌 Pin your best 3–6 repos on your GitHub profile so they show up right below this README.
 
@@ -106,8 +105,17 @@
 ### 🎓 Education
 
 - **B.Tech, Information Technology** — K. Ramakrishna College of Engineering (KRCE), Tiruchirappalli *(3rd Year, in progress)*
-- 🏅 [ADD CERTIFICATIONS — e.g., NPTEL, AWS Cloud Practitioner, Coursera]
-- 🏆 [ADD AWARDS/HACKATHONS]
+- 🏅 * Microsoft - “Gen AI Basics”
+● MongoDB - “MongoDB and AI
+Fundamentals”
+● Celonis - “Process Minning
+Fundamentals”
+● AutoDesk - “Introduction to BIM for the
+Aeco Industry”
+● NPTEL - “Human Behaviour”
+● NPTEL - “Cloud Computing”
+● Tata - “GenAI Powered Data Analytics
+- 
 
 ---
 
