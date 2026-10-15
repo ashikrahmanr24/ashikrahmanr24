@@ -16,7 +16,7 @@
 ### 👨‍💻 About Me
 
 > 🎓 3rd-year **B.Tech Information Technology** student at **K. Ramakrishna College of Engineering (KRCE)**, Tiruchirappalli
-> 🚀 Exploring career paths across **IoT Solutions Architecture**, **Full Stack Development**, and **Data Science**
+> 🚀 Exploring career paths across **B.Tech IT Student**, **Full Stack Development**, and **Data Science**
 > 🌱 Currently sharpening my skills in Python, web development, and connected-device systems
 > 💬 Ask me about **XPath**, **Python automation projects**, or **Mad Libs-style scripting fun**
 > 📫 Reach me at **ashikrahmanr24@gmail.com**
